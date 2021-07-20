@@ -1,0 +1,11 @@
+{
+  "description": OH Yeah",
+  "repo": "https://github.com/nivedps/nivedps.github.io",
+  "owner": {
+    "username": "nivedps",
+    "email": "nivedps1999@gmail.com"
+  },
+  "record": {
+    "CNAME": "nivedps.github.io"
+  }
+}
